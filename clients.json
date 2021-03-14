@@ -1,0 +1,6 @@
+{"clients": [
+  { "currentX": "17", "currentY": "11", "destinationX": "14", "destinationY": "8", "id": "1" },
+  { "currentX": "14", "currentY": "11", "destinationX": "10", "destinationY": "11", "id": "2" },
+  { "currentX": "3", "currentY": "8", "destinationX": "6", "destinationY": "5", "id": "3" },
+  { "currentX": "9", "currentY": "8", "destinationX": "9", "destinationY": "6", "id": "4" }
+]}
